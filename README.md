@@ -1,4 +1,6 @@
-### Hi there 👋
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=manan025&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Manan's Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan025&layout=compact&hide_border=true&hide=CSS,HTML&theme=tokyonight" alt="Manan's Github Stats">
+
+<!--### Hi there 👋-->
 
 <!--
 **manan025/manan025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Thanks to TarushS -->
