@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [OpenBeaconWiki](https://github.com/openbeaconwiki)
+- 🔭 I’m currently working on [WayFindWiki](https://github.com/wayfindwiki)
 - 🌱 I’m currently learning Machine Learning <!--- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything ranging from aviation to culture
 - 📫 How to reach me: [hi@mrkr.me](mailto:hi@mrkr.me)
